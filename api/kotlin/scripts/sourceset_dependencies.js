@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":core:spring-boot/main":[],":module:spring-boot-resttestclient/main":[]}'

@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+module:spring-boot
+org.springframework.boot
+module:spring-boot-resttestclient
+org.springframework.boot.resttestclient
